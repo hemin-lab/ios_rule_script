@@ -1,0 +1,9 @@
+# NAME: Cursor
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-10-10 10:10:10
+# HOST: 1
+# HOST-SUFFIX: 2
+# TOTAL: 3
+HOST-SUFFIX,cursor.com,Cursor
+HOST-SUFFIX,cursor.sh,Cursor
